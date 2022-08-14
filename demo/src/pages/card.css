@@ -1,0 +1,21 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 30px;
+}
+
+
+.mainclass{
+    padding: 80px;
+    background-color:aqua;
+}
+
+.anotherclass{
+    padding: 40px;
+}
+.innerclass{
+    display: flex;
+    justify-content: space-between;
+    margin: 16px;
+    font-size: larger;
+    font-weight: 700;
+}
